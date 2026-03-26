@@ -4,13 +4,13 @@ This repository contains two implementations of LS-OptSMT:
 
 ## MaxSMT
 
-The `MaxSMT/` directory contains the implementation for **MaxSMT(NIA)** (Maximum Satisfiability Modulo Theories).
+The `MaxSMT/` directory contains the implementation for **MaxSMT(NIA)** (Maximum Satisfiability Modulo Theories over Non-Linear Integer Arithmetic).
 
 For build instructions and usage, see [MaxSMT/README.md](MaxSMT/README.md).
 
 ## OMT
 
-The `OMT/` directory contains the implementation for **OMT(NIA)** (Optimization Modulo Theories).
+The `OMT/` directory contains the implementation for **OMT(NIA)** (Optimization Modulo Theories over Non-Linear Integer Arithmetic).
 
 For build instructions and usage, see [OMT/README.md](OMT/README.md).
 

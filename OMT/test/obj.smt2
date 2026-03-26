@@ -1,0 +1,1 @@
+(minimize a__6)
